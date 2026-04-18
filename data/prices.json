@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-17T22:48:38.607490+00:00",
+  "last_updated": "2026-04-18T02:50:23.051659+00:00",
   "update_frequency": "weekly",
   "disclaimer": "Prices are approximate and may have changed. Always verify on official websites.",
   "secure_parking": [
@@ -15,7 +15,7 @@
       "early_bird": 25.0,
       "night": null,
       "weekend": null,
-      "scraped_at": "2026-04-17T22:48:35.291520+00:00",
+      "scraped_at": "2026-04-18T02:50:19.793711+00:00",
       "source": "scraped+fallback+fallback+fallback"
     },
     {
@@ -30,7 +30,7 @@
       "early_bird": 24.0,
       "night": null,
       "weekend": null,
-      "scraped_at": "2026-04-17T22:48:35.296333+00:00",
+      "scraped_at": "2026-04-18T02:50:19.798508+00:00",
       "source": "scraped+fallback+fallback+fallback"
     },
     {
@@ -45,7 +45,7 @@
       "early_bird": 26.0,
       "night": null,
       "weekend": null,
-      "scraped_at": "2026-04-17T22:48:35.301185+00:00",
+      "scraped_at": "2026-04-18T02:50:19.803109+00:00",
       "source": "scraped+fallback+fallback+fallback"
     },
     {
@@ -60,7 +60,7 @@
       "early_bird": 27.0,
       "night": null,
       "weekend": null,
-      "scraped_at": "2026-04-17T22:48:35.306332+00:00",
+      "scraped_at": "2026-04-18T02:50:19.807968+00:00",
       "source": "scraped+fallback+fallback+fallback"
     },
     {
@@ -75,7 +75,7 @@
       "early_bird": 24.0,
       "night": null,
       "weekend": null,
-      "scraped_at": "2026-04-17T22:48:35.311450+00:00",
+      "scraped_at": "2026-04-18T02:50:19.812762+00:00",
       "source": "scraped+fallback+fallback+fallback"
     },
     {
@@ -90,7 +90,7 @@
       "early_bird": 23.0,
       "night": null,
       "weekend": null,
-      "scraped_at": "2026-04-17T22:48:35.316606+00:00",
+      "scraped_at": "2026-04-18T02:50:19.817823+00:00",
       "source": "scraped+fallback+fallback+fallback"
     },
     {
@@ -105,7 +105,7 @@
       "early_bird": 25.0,
       "night": null,
       "weekend": null,
-      "scraped_at": "2026-04-17T22:48:35.322069+00:00",
+      "scraped_at": "2026-04-18T02:50:19.823051+00:00",
       "source": "scraped+fallback+fallback+fallback"
     }
   ],
@@ -122,7 +122,7 @@
       "early_bird": 25.0,
       "night": null,
       "weekend": null,
-      "scraped_at": "2026-04-17T22:48:35.347982+00:00",
+      "scraped_at": "2026-04-18T02:50:19.847757+00:00",
       "source": "error+fallback+fallback+fallback",
       "error": "HTTP 404"
     },
@@ -138,7 +138,7 @@
       "early_bird": 22.0,
       "night": null,
       "weekend": null,
-      "scraped_at": "2026-04-17T22:48:35.814381+00:00",
+      "scraped_at": "2026-04-18T02:50:20.447289+00:00",
       "source": "error+fallback+fallback+fallback",
       "error": "HTTP 404"
     },
@@ -154,7 +154,7 @@
       "early_bird": 20.0,
       "night": null,
       "weekend": null,
-      "scraped_at": "2026-04-17T22:48:36.145238+00:00",
+      "scraped_at": "2026-04-18T02:50:21.535653+00:00",
       "source": "error+fallback+fallback+fallback",
       "error": "HTTP 404"
     },
@@ -170,7 +170,7 @@
       "early_bird": null,
       "night": null,
       "weekend": null,
-      "scraped_at": "2026-04-17T22:48:36.450839+00:00",
+      "scraped_at": "2026-04-18T02:50:21.830795+00:00",
       "source": "error+fallback+fallback",
       "error": "HTTP 404"
     },
@@ -186,7 +186,7 @@
       "early_bird": null,
       "night": null,
       "weekend": null,
-      "scraped_at": "2026-04-17T22:48:36.790548+00:00",
+      "scraped_at": "2026-04-18T02:50:22.158017+00:00",
       "source": "error+fallback+fallback",
       "error": "HTTP 404"
     },
@@ -202,7 +202,7 @@
       "early_bird": 28.0,
       "night": null,
       "weekend": null,
-      "scraped_at": "2026-04-17T22:48:37.109039+00:00",
+      "scraped_at": "2026-04-18T02:50:22.452111+00:00",
       "source": "error+fallback+fallback+fallback",
       "error": "HTTP 404"
     },
@@ -218,7 +218,7 @@
       "early_bird": null,
       "night": null,
       "weekend": null,
-      "scraped_at": "2026-04-17T22:48:37.432419+00:00",
+      "scraped_at": "2026-04-18T02:50:22.772222+00:00",
       "source": "error+fallback+fallback",
       "error": "HTTP 404"
     }
