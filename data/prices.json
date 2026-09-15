@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-15T11:25:25.903812+00:00",
+  "last_updated": "2026-09-15T16:38:05.478913+00:00",
   "update_frequency": "weekly",
   "disclaimer": "Prices are approximate and may have changed. Always verify on official websites.",
   "secure_parking": [
@@ -13,10 +13,9 @@
       "hourly": 14.0,
       "daily": 55.0,
       "early_bird": 25.0,
-      "night": null,
-      "weekend": null,
-      "scraped_at": "2026-09-15T11:25:22.842265+00:00",
-      "source": "scraped+fallback+fallback+fallback"
+      "error": "The read operation timed out",
+      "scraped_at": "2026-09-15T16:38:03.042309+00:00",
+      "source": "error+fallback+fallback+fallback"
     },
     {
       "provider": "secure",
@@ -28,10 +27,9 @@
       "hourly": 13.0,
       "daily": 52.0,
       "early_bird": 24.0,
-      "night": null,
-      "weekend": null,
-      "scraped_at": "2026-09-15T11:25:22.846349+00:00",
-      "source": "scraped+fallback+fallback+fallback"
+      "error": "The read operation timed out",
+      "scraped_at": "2026-09-15T16:38:03.042331+00:00",
+      "source": "error+fallback+fallback+fallback"
     },
     {
       "provider": "secure",
@@ -43,10 +41,9 @@
       "hourly": 14.0,
       "daily": 56.0,
       "early_bird": 26.0,
-      "night": null,
-      "weekend": null,
-      "scraped_at": "2026-09-15T11:25:22.849908+00:00",
-      "source": "scraped+fallback+fallback+fallback"
+      "error": "The read operation timed out",
+      "scraped_at": "2026-09-15T16:38:03.042336+00:00",
+      "source": "error+fallback+fallback+fallback"
     },
     {
       "provider": "secure",
@@ -58,10 +55,9 @@
       "hourly": 15.0,
       "daily": 58.0,
       "early_bird": 27.0,
-      "night": null,
-      "weekend": null,
-      "scraped_at": "2026-09-15T11:25:22.853476+00:00",
-      "source": "scraped+fallback+fallback+fallback"
+      "error": "The read operation timed out",
+      "scraped_at": "2026-09-15T16:38:03.042339+00:00",
+      "source": "error+fallback+fallback+fallback"
     },
     {
       "provider": "secure",
@@ -73,10 +69,9 @@
       "hourly": 13.0,
       "daily": 55.0,
       "early_bird": 24.0,
-      "night": null,
-      "weekend": null,
-      "scraped_at": "2026-09-15T11:25:22.856996+00:00",
-      "source": "scraped+fallback+fallback+fallback"
+      "error": "The read operation timed out",
+      "scraped_at": "2026-09-15T16:38:03.042342+00:00",
+      "source": "error+fallback+fallback+fallback"
     },
     {
       "provider": "secure",
@@ -88,10 +83,9 @@
       "hourly": 12.0,
       "daily": 50.0,
       "early_bird": 23.0,
-      "night": null,
-      "weekend": null,
-      "scraped_at": "2026-09-15T11:25:22.860708+00:00",
-      "source": "scraped+fallback+fallback+fallback"
+      "error": "The read operation timed out",
+      "scraped_at": "2026-09-15T16:38:03.042345+00:00",
+      "source": "error+fallback+fallback+fallback"
     },
     {
       "provider": "secure",
@@ -103,10 +97,9 @@
       "hourly": 14.0,
       "daily": 54.0,
       "early_bird": 25.0,
-      "night": null,
-      "weekend": null,
-      "scraped_at": "2026-09-15T11:25:22.864488+00:00",
-      "source": "scraped+fallback+fallback+fallback"
+      "error": "The read operation timed out",
+      "scraped_at": "2026-09-15T16:38:03.042347+00:00",
+      "source": "error+fallback+fallback+fallback"
     }
   ],
   "wilson_parking": [
@@ -122,7 +115,7 @@
       "early_bird": 25.0,
       "night": null,
       "weekend": null,
-      "scraped_at": "2026-09-15T11:25:22.883333+00:00",
+      "scraped_at": "2026-09-15T16:38:03.060451+00:00",
       "source": "error+fallback+fallback+fallback",
       "error": "HTTP 404"
     },
@@ -138,7 +131,7 @@
       "early_bird": 22.0,
       "night": null,
       "weekend": null,
-      "scraped_at": "2026-09-15T11:25:23.517847+00:00",
+      "scraped_at": "2026-09-15T16:38:03.552033+00:00",
       "source": "error+fallback+fallback+fallback",
       "error": "HTTP 404"
     },
@@ -154,7 +147,7 @@
       "early_bird": 20.0,
       "night": null,
       "weekend": null,
-      "scraped_at": "2026-09-15T11:25:23.793163+00:00",
+      "scraped_at": "2026-09-15T16:38:03.885773+00:00",
       "source": "error+fallback+fallback+fallback",
       "error": "HTTP 404"
     },
@@ -170,7 +163,7 @@
       "early_bird": null,
       "night": null,
       "weekend": null,
-      "scraped_at": "2026-09-15T11:25:24.051718+00:00",
+      "scraped_at": "2026-09-15T16:38:04.205419+00:00",
       "source": "error+fallback+fallback",
       "error": "HTTP 404"
     },
@@ -186,7 +179,7 @@
       "early_bird": null,
       "night": null,
       "weekend": null,
-      "scraped_at": "2026-09-15T11:25:24.322726+00:00",
+      "scraped_at": "2026-09-15T16:38:04.512785+00:00",
       "source": "error+fallback+fallback",
       "error": "HTTP 404"
     },
@@ -202,7 +195,7 @@
       "early_bird": 28.0,
       "night": null,
       "weekend": null,
-      "scraped_at": "2026-09-15T11:25:24.587007+00:00",
+      "scraped_at": "2026-09-15T16:38:04.843800+00:00",
       "source": "error+fallback+fallback+fallback",
       "error": "HTTP 404"
     },
@@ -218,7 +211,7 @@
       "early_bird": null,
       "night": null,
       "weekend": null,
-      "scraped_at": "2026-09-15T11:25:24.853801+00:00",
+      "scraped_at": "2026-09-15T16:38:05.176749+00:00",
       "source": "error+fallback+fallback",
       "error": "HTTP 404"
     }
